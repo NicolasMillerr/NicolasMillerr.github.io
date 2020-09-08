@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Welcome to my blog! 
+I'm not sure what i'll be using this for, but its pretty exciting! I'll probably be writing about learning ML, learning in general and other stuff. Yeah I know.
+This is sort of a selfishly inspired endeavour, at this point I feel like i'll benefit more from the clarity writing about something brings than my prospective readers will benefit from my writing - but who knows. Anyways, if you're looking to build something similar, this is powered (can I even say powered, it feels like a bit to *strong*) by the `fast_template` you can find at fast.ai.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
