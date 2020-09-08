@@ -8,7 +8,7 @@ anything to say. Go make something cool! There's a guy that build a self driving
 Anyways if you're still reading maybe you care to know a lil' bit about me. Im 22 (probably wont be by the time you're reading), live in argentina (hopefully wont be by the time you're reading)
 and am really excited about *everything* right now.
 
-## Why? Lets talk about the Dunning Kruger effect
+## Why? Dunning Kruger
 
 We're really lucky, if you're reading this, it means you have access to the tools to build pretty much anything...
 Think about it, what's the next big thing? What new invention is going to change the world? I have no clue, but I'm pretty sure there's going to be some code behind it.
