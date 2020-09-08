@@ -28,3 +28,9 @@ where stand to gain the most by spending time learning. How many times have you 
 this happens a lot.
 
 ## Derivatives
+
+Here's a way of thinking about the Dunning-Kruger effect which I think explains the serial quitting most of us fall into. Let's look at the curve in terms of derivatives. I'm too lazy to go over what the derivative of a function is (I probably dont *really* know), but in this case just think of it as the slope of the curve. What I think is that we're really prone to quit when we perceive this slope to be 0. Either we think we've mastered something (and are a little bit underwhelmed this is all it can do) or we feel absolutely lost and hopeless, so, we quit. What we dont realize is that it would be very disco if we *didn't* quit. Especially if we're down in the valley, because by moving forwards, you're guaranteed to gain! A lot! 
+
+## An example
+
+Like I said before, I used to think I kind of knew how to make stuff with python. I recently discovered that I'm really bad at it. This isn't the full truth, I can actually build stuff, and most of the time those things will do what I want them to. So what happens if I **actually** become good at it? Who knows what I could make? I have no idea but I'm pretty sure its worth finding out...
