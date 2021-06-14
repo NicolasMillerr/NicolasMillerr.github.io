@@ -8,10 +8,12 @@ In an attempt be more deliberate about the stuff *I* consume, I'm making a small
 Creators
 ====
 
-## George Hotz
+### George Hotz
 
-Geohot is probably my favourite person to learn from at the moment. Not so much because he creates particularly educational / useful (to me) content, It's more
+Geohot is probably my favourite person to learn from at the moment. Not so much because he creates particularly educational / useful content, It's more
 of a source of inspiration. Watching someone really smart solve problems makes me want to do the same.
 
 Relevant Links:
-- [blog] (https://geohot.github.io/blog/)
+- [blog](https://geohot.github.io/blog/)
+- [youtube](https://www.youtube.com/c/commaai/videos)
+- [github](https://github.com/geohot)
